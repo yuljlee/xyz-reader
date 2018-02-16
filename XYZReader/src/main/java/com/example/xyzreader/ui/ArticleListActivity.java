@@ -197,10 +197,7 @@ public class ArticleListActivity extends AppCompatActivity implements
                     ImageLoaderHelper.getInstance(ArticleListActivity.this).getImageLoader());
             holder.thumbnailView.setAspectRatio(mCursor.getFloat(ArticleLoader.Query.ASPECT_RATIO));
 
-//            Picasso.with(holder.thumbnailView.getContext())
-//                    .load(mCursor.getString(ArticleLoader.Query.THUMB_URL))
-//                    //.resize(holder.thumbnailView.getMaxWidth(), 300)
-//                    .into(holder.thumbnailView);
+
         }
 
         @Override
