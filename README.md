@@ -4,5 +4,5 @@ This is a simple news reader application with elements of Material Design. This 
 
 ## Screenshots
 
-![screen](../master/pop_movies1.jpg)
-![screen](../master/pop_movies2.jpg)
+![screen](../master/xyzreader1.jpg)
+![screen](../master/xyzreader2.jpg)
