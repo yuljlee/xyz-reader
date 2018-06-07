@@ -1,3 +1,8 @@
-= XYZ Reader Starter Code
+XYZ Reader
+=============
+This is a simple news reader application with elements of Material Design. This is for Udacity Android Developer Nano Degree.
 
-This repository stores the starter code for the XYZ Reader project in Udacity's Android Nanodegree.
+## Screenshots
+
+![screen](../master/pop_movies1.jpg)
+![screen](../master/pop_movies2.jpg)
